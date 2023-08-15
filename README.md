@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Fash!
 
 ### Data Scientist & Analyst
-![Data-science-online-training-1024x1024](https://github.com/fashjr/fashjr/assets/66734279/8181e8b3-2594-4404-9bcb-453f44b827b9)
-
 <!--
 **fashjr/fashjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
